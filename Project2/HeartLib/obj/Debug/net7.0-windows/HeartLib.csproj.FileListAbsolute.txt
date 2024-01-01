@@ -1,0 +1,16 @@
+C:\Users\HP\test\Project2\HeartLib\bin\Debug\net7.0-windows\HeartLib.deps.json
+C:\Users\HP\test\Project2\HeartLib\bin\Debug\net7.0-windows\HeartLib.dll
+C:\Users\HP\test\Project2\HeartLib\bin\Debug\net7.0-windows\HeartLib.pdb
+C:\Users\HP\test\Project2\HeartLib\bin\Debug\net7.0-windows\IShape.dll
+C:\Users\HP\test\Project2\HeartLib\bin\Debug\net7.0-windows\IShape.pdb
+C:\Users\HP\test\Project2\HeartLib\obj\Debug\net7.0-windows\HeartLib.csproj.AssemblyReference.cache
+C:\Users\HP\test\Project2\HeartLib\obj\Debug\net7.0-windows\HeartLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\test\Project2\HeartLib\obj\Debug\net7.0-windows\HeartLib.AssemblyInfoInputs.cache
+C:\Users\HP\test\Project2\HeartLib\obj\Debug\net7.0-windows\HeartLib.AssemblyInfo.cs
+C:\Users\HP\test\Project2\HeartLib\obj\Debug\net7.0-windows\HeartLib.csproj.CoreCompileInputs.cache
+C:\Users\HP\test\Project2\HeartLib\obj\Debug\net7.0-windows\HeartLib.sourcelink.json
+C:\Users\HP\test\Project2\HeartLib\obj\Debug\net7.0-windows\HeartLib.csproj.CopyComplete
+C:\Users\HP\test\Project2\HeartLib\obj\Debug\net7.0-windows\HeartLib.dll
+C:\Users\HP\test\Project2\HeartLib\obj\Debug\net7.0-windows\refint\HeartLib.dll
+C:\Users\HP\test\Project2\HeartLib\obj\Debug\net7.0-windows\HeartLib.pdb
+C:\Users\HP\test\Project2\HeartLib\obj\Debug\net7.0-windows\ref\HeartLib.dll
